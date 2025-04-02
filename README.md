@@ -1,5 +1,5 @@
 
-# ImGui External Overlay
+# ImGui External Overlay(FORK and This Program is Under LICENSE ISC)
 
 `External ImGui Overlay`, Using DirectX 11 As The Backend. Make For A Smooth Developer Experience. `Pre-Configured` For Debug | Release For x64 And x86. Make Sure The Application It Is Rendering On Top Of Is `Windowed` Or `Fullscreen Borderless`
 
